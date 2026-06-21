@@ -1568,7 +1568,7 @@ document.addEventListener('keydown', (e) => {
 async function resolveBackendUrl() {
   // Step 1: Check for explicit backend URL in config.json (for GitHub Pages + Render)
   try {
-    const res = await fetch('/config.json')
+    const res = await fetch('config.json')
     if (res.ok) {
       const cfg = await res.json()
       if (cfg.backendUrl && cfg.backendUrl.trim()) {
