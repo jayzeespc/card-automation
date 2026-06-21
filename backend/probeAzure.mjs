@@ -1,7 +1,14 @@
 import axios from 'axios'
 
-const endpoint = 'https://cardvisionextractor.cognitiveservices.azure.com'
-const key = 'replace-with-your-azure-api-key'
+// Read from environment variables - never commit secrets to code!
+const endpoint = process.env.AZURE_ENDPOINT || 'https://cardvisionextractor.cognitiveservices.azure.com'
+const key = process.env.AZURE_API_KEY
+
+if (!key) {
+  console.error('ERROR: AZURE_API_KEY environment variable not set')
+  process.exit(1)
+}
+
 const paths = [
   '/documentintelligence/documentModels?api-version=2024-12-01',
   '/formrecognizer/documentModels?api-version=2024-12-01',
