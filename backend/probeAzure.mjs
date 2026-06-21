@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const endpoint = 'https://cardvisionextractor.cognitiveservices.azure.com'
-const key = 'BEdDXVPbGXDay4sz5V1E6pSldrDF3AIIDADNeVAmSOTK0XBRDTZFJQQJ99CFACYeBjFXJ3w3AAAFACOGcBcd'
+const key = 'replace-with-your-azure-api-key'
 const paths = [
   '/documentintelligence/documentModels?api-version=2024-12-01',
   '/formrecognizer/documentModels?api-version=2024-12-01',
