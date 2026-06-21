@@ -15,6 +15,8 @@ import catalogRoute from './routes/catalog.js'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 const frontendDir = path.resolve(__dirname, '..', 'Frontend')
+const frontendIndexPath = path.join(frontendDir, 'index.html')
+const hasFrontendBundle = fs.existsSync(frontendIndexPath)
 
 const envFile = String(process.env.ENV_FILE || '.env').trim() || '.env'
 dotenv.config({ path: path.resolve(process.cwd(), envFile) })
@@ -90,7 +92,9 @@ app.use('/detect-front-back', rateLimit, detectFrontBackRoute)
 app.use('/rename', renameRoute)
 app.use('/inventory', inventoryRoute)
 app.use('/catalog', catalogRoute)
-app.use(express.static(frontendDir))
+if (hasFrontendBundle) {
+  app.use(express.static(frontendDir))
+}
 
 function parseBoolean(value) {
   return ['1','true','yes'].includes(String(value || '').toLowerCase())
@@ -176,7 +180,14 @@ app.get('/errors/recent', (req, res) => {
 })
 
 app.get('/', (req, res) => {
-  res.sendFile(path.join(frontendDir, 'index.html'))
+  if (hasFrontendBundle) {
+    return res.sendFile(frontendIndexPath)
+  }
+  return res.json({
+    status: 'ok',
+    message: 'CardPilot HQ backend is running. Frontend is hosted separately.',
+    frontend: 'https://jayzeespc.github.io/card-automation/'
+  })
 })
 
 const DEFAULT_PORT = 3000
