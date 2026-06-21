@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-06-20",
+  "downloads": [
+    {
+      "set": "2025 Panini Donruss Optic Football",
+      "file": "data/checklists/downloads/2025-donruss-optic-football-checklist.xlsx",
+      "sourceUrl": "https://beckett-www.s3.amazonaws.com/news/news-content/uploads/2026/01/2025-Donruss-Optic-Football-Checklist.xlsx"
+    },
+    {
+      "set": "2025 Panini Select Football",
+      "file": "data/checklists/downloads/2025-panini-select-football-checklist.xlsx",
+      "sourceUrl": "https://img.beckett.com/news/news-content/uploads/2026/02/2025-Select-Football-Checklist.xlsx"
+    },
+    {
+      "set": "2025-2026 Topps Signature Class Football",
+      "file": "data/checklists/downloads/2026-topps-signature-class-football.status.json",
+      "sourceUrl": "https://www.beckett.com/news/search/Topps+Signature+Class+football+cards/",
+      "status": "not_found"
+    }
+  ]
+}

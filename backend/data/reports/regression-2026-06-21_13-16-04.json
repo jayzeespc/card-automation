@@ -1,0 +1,1727 @@
+{
+  "summary": {
+    "rootPath": "D:/Sport Cards/Scanned from Epson/Football/Atlanta Falcons",
+    "generatedAt": "2026-06-21T13:16:04.380Z",
+    "pairCount": 20,
+    "imageCount": 40,
+    "fieldCoverage": {
+      "player": {
+        "hits": 20,
+        "pct": 100
+      },
+      "team": {
+        "hits": 20,
+        "pct": 100
+      },
+      "position": {
+        "hits": 20,
+        "pct": 100
+      },
+      "set": {
+        "hits": 20,
+        "pct": 100
+      },
+      "year": {
+        "hits": 20,
+        "pct": 100
+      },
+      "cardNumber": {
+        "hits": 20,
+        "pct": 100
+      },
+      "parallel": {
+        "hits": 0,
+        "pct": 0
+      }
+    },
+    "variantUsage": {
+      "original": 40
+    },
+    "catalogMatchBuckets": {
+      "0.00": 21,
+      "0.50-0.74": 19
+    },
+    "sidePatterns": {
+      "back/front": 2,
+      "front/front": 18
+    },
+    "sideDetectorDisagreeCount": 20,
+    "sideDetectorDisagreePct": 100,
+    "parallelEvidence": {
+      "pairsWithSignal": 0,
+      "pairsWithSignalPct": 0,
+      "missingParallelButSignalCount": 0,
+      "signalTokens": {}
+    },
+    "folderCounts": {
+      "Atlanta Falcons": 20
+    },
+    "reviewPairCount": 20,
+    "reviewPairs": [
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0001.jpg + Document_20260615_0002.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0003.jpg + Document_20260615_0004.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0005.jpg + Document_20260615_0006.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0007.jpg + Document_20260615_0008.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0009.jpg + Document_20260615_0010.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0011.jpg + Document_20260615_0012.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0013.jpg + Document_20260615_0014.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0015.jpg + Document_20260615_0016.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "back/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0017.jpg + Document_20260615_0018.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "back/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0019.jpg + Document_20260615_0020.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0021.jpg + Document_20260615_0022.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0023.jpg + Document_20260615_0024.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0025.jpg + Document_20260615_0026.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0027.jpg + Document_20260615_0028.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0029.jpg + Document_20260615_0030.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0031.jpg + Document_20260615_0032.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0033.jpg + Document_20260615_0034.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0035.jpg + Document_20260615_0036.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0037.jpg + Document_20260615_0038.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0039.jpg + Document_20260615_0040.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      }
+    ],
+    "runMode": {
+      "cheapMode": true
+    },
+    "qualityGate": {
+      "profile": "beta",
+      "pass": true,
+      "failures": [],
+      "warnings": [
+        "parallel coverage is 0%, but only 0% of pairs show parallel signal tokens",
+        "side detector disagrees with preserved scan order on 100% of pairs (advisory only)"
+      ],
+      "thresholds": {
+        "minPairs": 20,
+        "minYearPct": 95,
+        "minPositionPct": 85,
+        "minParallelWhenEvidencePct": 30,
+        "minParallelEvidencePct": 10
+      }
+    }
+  },
+  "results": [
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0001.jpg + Document_20260615_0002.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "TYLER ALLGEIER",
+        "team": "Atlanta Falcons",
+        "position": "RB",
+        "set": "Donruss",
+        "year": "2024",
+        "cardNumber": "41",
+        "parallel": null,
+        "ocrPreview": "TYLER ALLGEIER RUNNING BACK . FALCONS DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0001.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.5925,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 45,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "TYLER ALLGEIER",
+          "team": "Atlanta Falcons",
+          "set": "DONRUSS",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0002.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 514,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "Atlanta Falcons",
+          "set": "2025 PANINI - DONRUSS FOOTBALL THEJE @ 2025 Panini America, Inc.",
+          "year": "2024",
+          "cardNumber": "41"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0003.jpg + Document_20260615_0004.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "WILLIAM ANDREWS",
+        "team": "Atlanta Falcons",
+        "position": "RB",
+        "set": "Donruss",
+        "year": "1980",
+        "cardNumber": "247",
+        "parallel": null,
+        "ocrPreview": "WILLIAM ANDREWS RUNNING BACK . FALCONS DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0003.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.023,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 46,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "WILLIAM ANDREWS",
+          "team": "Atlanta Falcons",
+          "set": "DONRUSS",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0004.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 502,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "Atlanta Falcons",
+          "set": "2025 PANINI - DONRUSS FOOTBALL PHFEFE @ 2025 Panini America, Inc.",
+          "year": "1980",
+          "cardNumber": "247"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0005.jpg + Document_20260615_0006.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Tyler Allgeier",
+        "team": "Atlanta Falcons",
+        "position": "RB",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "33",
+        "parallel": null,
+        "ocrPreview": "TYLER ALLGEIER RUNNING BACK · FALCONS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0005.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.5965,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 53,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "TYLER ALLGEIER",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0006.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 541,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Tyler Allgeier",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "33"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0007.jpg + Document_20260615_0008.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Drake London",
+        "team": "Atlanta Falcons",
+        "position": "WR",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "153",
+        "parallel": null,
+        "ocrPreview": "ATL ATL DRAKE LONDON WIDE RECEIVER · FALCONS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0007.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.6,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 60,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DRAKE LONDON",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0008.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 510,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Drake London",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "153"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0009.jpg + Document_20260615_0010.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Darnell Mooney",
+        "team": "Atlanta Falcons",
+        "position": "WR",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "65",
+        "parallel": null,
+        "ocrPreview": "ATL DARNELL MOONEY WIDE RECEIVER · FALCONS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0009.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.599,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 58,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DARNELL MOONEY",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0010.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 491,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Darnell Mooney",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "65"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0011.jpg + Document_20260615_0012.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Bijan Robinson",
+        "team": "Atlanta Falcons",
+        "position": "RB",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "118",
+        "parallel": null,
+        "ocrPreview": "ATL BIJAN ROBINSON RUNNING BACK · FALCONS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0011.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.5985,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 57,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "BIJAN ROBINSON",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0012.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 565,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Bijan Robinson",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "118"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0013.jpg + Document_20260615_0014.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Michael Penix Jr.",
+        "team": "Atlanta Falcons",
+        "position": "QB",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "134",
+        "parallel": null,
+        "ocrPreview": "ATL ATL MICHAEL PENIX JR. QUARTERBACK · FALCONS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0013.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.6015,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 63,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "MICHAEL PENIX JR.",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0014.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 550,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Michael Penix Jr.",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "134"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0015.jpg + Document_20260615_0016.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "KIRK COUSINS",
+        "team": "Atlanta Falcons",
+        "position": "QB",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "89",
+        "parallel": null,
+        "ocrPreview": "ATI B OPTIC 0 DONRUSS KIRK COUSINS QUARTERBACK · FALCONS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0015.jpg",
+        "sideGuess": "back",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.598,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 56,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "KIRK COUSINS",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0016.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 577,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "Atlanta Falcons",
+          "set": "to amass 500 yards and four scores in a game and, at 36 years and 45 days,",
+          "year": "2024",
+          "cardNumber": "89"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0017.jpg + Document_20260615_0018.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "RATE ATT YDS TD",
+        "team": "Atlanta Falcons",
+        "position": "QB",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "89",
+        "parallel": null,
+        "ocrPreview": "ATI KIRK COUSINS QUARTERBACK · FALCONS OPTIC O DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0017.jpg",
+        "sideGuess": "back",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.597,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 54,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "KIRK COUSINS",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0018.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.2,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 580,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "RATE ATT YDS TD",
+          "team": "Atlanta Falcons",
+          "set": "to amass 500 yards and four scores in a game and, at 36 years and 45 days,",
+          "year": "2024",
+          "cardNumber": "89"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0019.jpg + Document_20260615_0020.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "DARNELL MOONEY",
+        "team": "Atlanta Falcons",
+        "position": "WR",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "65",
+        "parallel": null,
+        "ocrPreview": "RTL A DARNELL MOONEY WIDE RECEIVER · FALCONS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0019.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.6,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 60,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DARNELL MOONEY",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0020.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.8,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.6,
+          "catalogMatched": true,
+          "ocrPreviewLength": 500,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "FALCONS",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": ". 65"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0021.jpg + Document_20260615_0022.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "DEION SANDERS",
+        "team": "Atlanta Falcons",
+        "position": "CB",
+        "set": "Donruss Optic",
+        "year": "1992",
+        "cardNumber": "16",
+        "parallel": null,
+        "ocrPreview": "21 21 DEION SANDERS CORNERBACK · FALCONS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0021.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.028,
+          "fieldCount": 5,
+          "missingFields": [
+            "year",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 56,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DEION SANDERS",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": "21"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0022.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.2,
+          "fieldCount": 4,
+          "missingFields": [
+            "player",
+            "team",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 609,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "",
+          "set": "21",
+          "year": "1992",
+          "cardNumber": "16"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0023.jpg + Document_20260615_0024.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "KYLE PITTS",
+        "team": "Atlanta Falcons",
+        "position": "TE",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "90",
+        "parallel": null,
+        "ocrPreview": "ATL' ATL KYLE PITTS TIGHT END · FALCONS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0023.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.5975,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 55,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "KYLE PITTS",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0024.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.8,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.6,
+          "catalogMatched": true,
+          "ocrPreviewLength": 511,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "FALCONS",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "90"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0025.jpg + Document_20260615_0026.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Darnell Mooney",
+        "team": "Atlanta Falcons",
+        "position": "WR",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "65",
+        "parallel": null,
+        "ocrPreview": "ATL A DARNELL MOONEY WIDE RECEIVER · FALCONS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0025.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.6,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 60,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DARNELL MOONEY",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0026.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 492,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Darnell Mooney",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "65"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0027.jpg + Document_20260615_0028.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "DRAKE LONDON",
+        "team": "Atlanta Falcons",
+        "position": "WR",
+        "set": "Topps",
+        "year": "2020",
+        "cardNumber": "62",
+        "parallel": null,
+        "ocrPreview": "toPPS ATL ATL aNnoa"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0027.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 1.0095,
+          "fieldCount": 1,
+          "missingFields": [
+            "player",
+            "team",
+            "position",
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 19,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "",
+          "set": "toPPS",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0028.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.2,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 612,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DRAKE LONDON",
+          "team": "Atlanta Falcons",
+          "set": "toPPS",
+          "year": "2020",
+          "cardNumber": "62"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0029.jpg + Document_20260615_0030.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "BIJAN ROBINSON",
+        "team": "Atlanta Falcons",
+        "position": "RB",
+        "set": "Topps Signature Class",
+        "year": "2008",
+        "cardNumber": "SNI80S",
+        "parallel": null,
+        "ocrPreview": "LOPPS ATL ATL A NOSNI80S NEMIS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0029.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 1.015,
+          "fieldCount": 1,
+          "missingFields": [
+            "player",
+            "team",
+            "position",
+            "set",
+            "year",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 30,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "",
+          "set": "",
+          "year": "",
+          "cardNumber": "SNI80S"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0030.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 594,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "BIJAN ROBINSON",
+          "team": "Atlanta Falcons",
+          "set": "Topps Signature Class",
+          "year": "2008",
+          "cardNumber": ""
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0031.jpg + Document_20260615_0032.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "DRAKE LONDON",
+        "team": "Atlanta Falcons",
+        "position": "WR",
+        "set": "Topps",
+        "year": "2020",
+        "cardNumber": "62",
+        "parallel": null,
+        "ocrPreview": "topps ATL ATT E aNnoy"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0031.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 1.0105,
+          "fieldCount": 1,
+          "missingFields": [
+            "player",
+            "team",
+            "position",
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 21,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "",
+          "set": "topps",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0032.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.2,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 615,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DRAKE LONDON",
+          "team": "Atlanta Falcons",
+          "set": "Topps Signature Class",
+          "year": "2020",
+          "cardNumber": "62"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0033.jpg + Document_20260615_0034.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "BIJAN ROBINSON",
+        "team": "Atlanta Falcons",
+        "position": "RB",
+        "set": "Topps",
+        "year": "2008",
+        "cardNumber": "4",
+        "parallel": null,
+        "ocrPreview": "TOPPS ATL ATL t aNnod BIJAN ROBINSON"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0033.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 2.018,
+          "fieldCount": 2,
+          "missingFields": [
+            "team",
+            "position",
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 36,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "BIJAN ROBINSON",
+          "team": "",
+          "set": "TOPPS",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0034.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 596,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "BIJAN ROBINSON",
+          "team": "Atlanta Falcons",
+          "set": "Topps Signature Class",
+          "year": "2008",
+          "cardNumber": ""
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0035.jpg + Document_20260615_0036.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "DRAKE LONDON",
+        "team": "Atlanta Falcons",
+        "position": "WR",
+        "set": "Topps",
+        "year": "2020",
+        "cardNumber": "62",
+        "parallel": null,
+        "ocrPreview": "topPs ATL ATL ROUND 3 Hold DRAKE LONDON"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0035.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 2.0195,
+          "fieldCount": 2,
+          "missingFields": [
+            "team",
+            "position",
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 39,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DRAKE LONDON",
+          "team": "",
+          "set": "topPs",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0036.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.2,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 618,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DRAKE LONDON",
+          "team": "Atlanta Falcons",
+          "set": "topps®",
+          "year": "2020",
+          "cardNumber": "62"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0037.jpg + Document_20260615_0038.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "JAMES PEARCE JR.",
+        "team": "Atlanta Falcons",
+        "position": "QB",
+        "set": "Topps",
+        "year": "2025",
+        "cardNumber": "130",
+        "parallel": null,
+        "ocrPreview": "toPPS RC 22 ATL & Hold aNnod JAMES PEARCE JR. ATE 7 NFL"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0037.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 3.0275,
+          "fieldCount": 3,
+          "missingFields": [
+            "team",
+            "position",
+            "year",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 55,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "JAMES PEARCE JR.",
+          "team": "",
+          "set": "toPPS",
+          "year": "",
+          "cardNumber": "22"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0038.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.2,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 602,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "JAMES PEARCE JR.",
+          "team": "Atlanta Falcons",
+          "set": "Topps Signature Class",
+          "year": "2025",
+          "cardNumber": "130"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0039.jpg + Document_20260615_0040.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "DRAKE LONDON",
+        "team": "Atlanta Falcons",
+        "position": "WR",
+        "set": "Topps",
+        "year": "2020",
+        "cardNumber": "62",
+        "parallel": null,
+        "ocrPreview": "topps ATL ATL ROUND 00 DRAKE LONDON"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0039.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 3.0175,
+          "fieldCount": 3,
+          "missingFields": [
+            "team",
+            "position",
+            "year",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 35,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DRAKE LONDON",
+          "team": "",
+          "set": "topps",
+          "year": "",
+          "cardNumber": "00"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0040.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.2,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 612,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DRAKE LONDON",
+          "team": "Atlanta Falcons",
+          "set": "toPPS",
+          "year": "2020",
+          "cardNumber": "62"
+        }
+      }
+    }
+  ]
+}

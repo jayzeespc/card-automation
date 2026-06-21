@@ -1,0 +1,1747 @@
+{
+  "summary": {
+    "rootPath": "D:/Sport Cards/Scanned from Epson/Football",
+    "generatedAt": "2026-06-21T11:57:19.504Z",
+    "pairCount": 20,
+    "imageCount": 40,
+    "fieldCoverage": {
+      "player": {
+        "hits": 20,
+        "pct": 100
+      },
+      "team": {
+        "hits": 20,
+        "pct": 100
+      },
+      "position": {
+        "hits": 18,
+        "pct": 90
+      },
+      "set": {
+        "hits": 20,
+        "pct": 100
+      },
+      "year": {
+        "hits": 20,
+        "pct": 100
+      },
+      "cardNumber": {
+        "hits": 20,
+        "pct": 100
+      },
+      "parallel": {
+        "hits": 0,
+        "pct": 0
+      }
+    },
+    "variantUsage": {
+      "highContrastMono": 1,
+      "original": 34,
+      "reflectiveRecovery": 4,
+      "shadowLift": 1
+    },
+    "catalogMatchBuckets": {
+      "0.00": 19,
+      "0.50-0.74": 19,
+      "0.75-0.89": 2
+    },
+    "sidePatterns": {
+      "back/front": 2,
+      "front/front": 18
+    },
+    "sideDetectorDisagreeCount": 20,
+    "sideDetectorDisagreePct": 100,
+    "parallelEvidence": {
+      "pairsWithSignal": 0,
+      "pairsWithSignalPct": 0,
+      "missingParallelButSignalCount": 0,
+      "signalTokens": {}
+    },
+    "folderCounts": {
+      "Arizona Cardinals": 15,
+      "Atlanta Falcons": 5
+    },
+    "reviewPairCount": 20,
+    "reviewPairs": [
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0001.jpg + Document_20260615_0002.jpg",
+        "combinedMissing": [
+          "position",
+          "parallel"
+        ],
+        "sidePattern": "back/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0003.jpg + Document_20260615_0004.jpg",
+        "combinedMissing": [
+          "position",
+          "parallel"
+        ],
+        "sidePattern": "back/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0005.jpg + Document_20260615_0006.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0007.jpg + Document_20260615_0008.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0009.jpg + Document_20260615_0010.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0011.jpg + Document_20260615_0012.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0013.jpg + Document_20260615_0014.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0015.jpg + Document_20260615_0016.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0017.jpg + Document_20260615_0018.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0019.jpg + Document_20260615_0020.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0021.jpg + Document_20260615_0022.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0023.jpg + Document_20260615_0024.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0025.jpg + Document_20260615_0026.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0027.jpg + Document_20260615_0028.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0029.jpg + Document_20260615_0030.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0001.jpg + Document_20260615_0002.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0003.jpg + Document_20260615_0004.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0005.jpg + Document_20260615_0006.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0007.jpg + Document_20260615_0008.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+        "pairLabel": "Document_20260615_0009.jpg + Document_20260615_0010.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      }
+    ],
+    "qualityGate": {
+      "profile": "beta",
+      "pass": true,
+      "failures": [],
+      "warnings": [
+        "parallel coverage is 0%, but only 0% of pairs show parallel signal tokens",
+        "side detector disagrees with preserved scan order on 100% of pairs (advisory only)"
+      ],
+      "thresholds": {
+        "minPairs": 20,
+        "minYearPct": 95,
+        "minPositionPct": 85,
+        "minParallelWhenEvidencePct": 30,
+        "minParallelEvidencePct": 10
+      }
+    }
+  },
+  "results": [
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0001.jpg + Document_20260615_0002.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "James Conner",
+        "team": "Arizona Cardinals",
+        "position": null,
+        "set": "Select",
+        "year": "2025",
+        "cardNumber": "123",
+        "parallel": null,
+        "ocrPreview": "SELECT 2025 ESTA JAMES CONNER CARDINALS"
+      },
+      "combinedMissing": [
+        "position",
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0001.jpg",
+        "sideGuess": "back",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.0195,
+          "fieldCount": 5,
+          "missingFields": [
+            "position",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 39,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "JAMES CONNER",
+          "team": "Arizona Cardinals",
+          "set": "Select",
+          "year": "2025",
+          "cardNumber": "2025"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0002.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6,
+          "fieldCount": 5,
+          "missingFields": [
+            "position",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.8,
+          "catalogMatched": true,
+          "ocrPreviewLength": 425,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "James Conner",
+          "team": "Arizona Cardinals",
+          "set": "Select",
+          "year": "2025",
+          "cardNumber": "123"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0003.jpg + Document_20260615_0004.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "MICHAEL WILSON",
+        "team": "Arizona Cardinals",
+        "position": null,
+        "set": "Panini Prizm",
+        "year": "2024",
+        "cardNumber": "145",
+        "parallel": null,
+        "ocrPreview": "PANINI PRIZM MICHAEL WILSON ARIZONA CARDINALS"
+      },
+      "combinedMissing": [
+        "position",
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0003.jpg",
+        "sideGuess": "back",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 3.0225,
+          "fieldCount": 3,
+          "missingFields": [
+            "position",
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 45,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "MICHAEL WILSON",
+          "team": "Arizona Cardinals",
+          "set": "Panini Prizm",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0004.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "position",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 497,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "MICHAEL WILSON",
+          "team": "Arizona Cardinals",
+          "set": "Panini Prizm",
+          "year": "2024",
+          "cardNumber": "145"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0005.jpg + Document_20260615_0006.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "James Conner",
+        "team": "Arizona Cardinals",
+        "position": "RB",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "111",
+        "parallel": null,
+        "ocrPreview": "ados JAMES CONNER RUNNING BACK · CARDINALS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0005.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.599,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 58,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "JAMES CONNER",
+          "team": "Arizona Cardinals",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0006.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 550,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "James Conner",
+          "team": "Arizona Cardinals",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "111"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0007.jpg + Document_20260615_0008.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "MARVIN HARRISON JR.",
+        "team": "Arizona Cardinals",
+        "position": "WR",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "191",
+        "parallel": null,
+        "ocrPreview": "- 18 RIZONİ NFL T MARVIN HARRISON JR. WIDE RECEIVER · C OPTIC O DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0007.jpg",
+        "sideGuess": "front",
+        "variant": "reflectiveRecovery",
+        "diagnostics": {
+          "variant": "reflectiveRecovery",
+          "score": 4.0355,
+          "fieldCount": 4,
+          "missingFields": [
+            "team",
+            "year",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 71,
+          "attemptedVariants": [
+            "original",
+            "shadowLift",
+            "reflectiveRecovery",
+            "highContrastMono"
+          ]
+        },
+        "parsed": {
+          "player": "MARVIN HARRISON JR.",
+          "team": "",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": "18"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0008.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.8,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.6,
+          "catalogMatched": true,
+          "ocrPreviewLength": 517,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "CARDINALS",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "191"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0009.jpg + Document_20260615_0010.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Kyler Murray",
+        "team": "Arizona Cardinals",
+        "position": "QB",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "166",
+        "parallel": null,
+        "ocrPreview": "CARDS 1 KYLER MURRAY QUARTERBA CK - CARDINALS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0009.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 3.6005,
+          "fieldCount": 3,
+          "missingFields": [
+            "position",
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 61,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "KYLER MURRAY",
+          "team": "Arizona Cardinals",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0010.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 587,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Kyler Murray",
+          "team": "Arizona Cardinals",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "166"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0011.jpg + Document_20260615_0012.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Jake Plummer",
+        "team": "Arizona Cardinals",
+        "position": "QB",
+        "set": "Donruss Optic",
+        "year": "2025",
+        "cardNumber": "189",
+        "parallel": null,
+        "ocrPreview": "6 JAKE PLUMMER QUARTERBACK · CARDINALS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0011.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.597,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 54,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "JAKE PLUMMER",
+          "team": "Arizona Cardinals",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0012.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 7,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.8,
+          "catalogMatched": true,
+          "ocrPreviewLength": 537,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Jake Plummer",
+          "team": "Arizona Cardinals",
+          "set": "Donruss Optic",
+          "year": "2025",
+          "cardNumber": "189"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0013.jpg + Document_20260615_0014.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "BUDDA BAKER",
+        "team": "Arizona Cardinals",
+        "position": "S",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "18",
+        "parallel": null,
+        "ocrPreview": "3 BUDDA BAKER SAFETY . CARDINALS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0013.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.594,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 48,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "BUDDA BAKER",
+          "team": "Arizona Cardinals",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0014.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.8,
+          "fieldCount": 4,
+          "missingFields": [
+            "player",
+            "position",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.6,
+          "catalogMatched": true,
+          "ocrPreviewLength": 530,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "CARDINALS",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "18"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0015.jpg + Document_20260615_0016.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Kyler Murray",
+        "team": "Arizona Cardinals",
+        "position": "QB",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "166",
+        "parallel": null,
+        "ocrPreview": "1 OPTIC 0 DONRUSS KYLER MURRAY QUARTE B K · CARDINALS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0015.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 3.5965,
+          "fieldCount": 3,
+          "missingFields": [
+            "position",
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 53,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "KYLER MURRAY",
+          "team": "Arizona Cardinals",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0016.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 580,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Kyler Murray",
+          "team": "Arizona Cardinals",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "166"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0017.jpg + Document_20260615_0018.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Marvin Harrison Jr.",
+        "team": "Arizona Cardinals",
+        "position": "WR",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "191",
+        "parallel": null,
+        "ocrPreview": "18 RIZON MARVIN HARRISON JR. WIDE RECEIVER · CARDINALS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0017.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.035,
+          "fieldCount": 5,
+          "missingFields": [
+            "year",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 70,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "MARVIN HARRISON JR.",
+          "team": "Arizona Cardinals",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": "18"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0018.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 512,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Marvin Harrison Jr.",
+          "team": "Arizona Cardinals",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "191"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0019.jpg + Document_20260615_0020.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "TREY McBRIDE",
+        "team": "Arizona Cardinals",
+        "position": "TE",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "74",
+        "parallel": null,
+        "ocrPreview": "CARBIRALS CARDINAL TREY McBRIDE TIGHT END · CARDINALS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0019.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.6045,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 69,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "TREY McBRIDE",
+          "team": "Arizona Cardinals",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0020.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 485,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "Arizona Cardinals",
+          "set": "Select",
+          "year": "2024",
+          "cardNumber": "74"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0021.jpg + Document_20260615_0022.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "MARVIN HARRISON JR.",
+        "team": "Arizona Cardinals",
+        "position": "WR",
+        "set": "Topps",
+        "year": "2024",
+        "cardNumber": "61",
+        "parallel": null,
+        "ocrPreview": "T aNnod MARVIN HARRISON JR. TOPPS MANALS 161 MOId"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0021.jpg",
+        "sideGuess": "front",
+        "variant": "shadowLift",
+        "diagnostics": {
+          "variant": "shadowLift",
+          "score": 3.0245,
+          "fieldCount": 3,
+          "missingFields": [
+            "team",
+            "position",
+            "year",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 49,
+          "attemptedVariants": [
+            "original",
+            "shadowLift",
+            "reflectiveRecovery",
+            "highContrastMono"
+          ]
+        },
+        "parsed": {
+          "player": "MARVIN HARRISON JR.",
+          "team": "",
+          "set": "TOPPS",
+          "year": "",
+          "cardNumber": "161"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0022.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.2,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 610,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "MARVIN HARRISON JR.",
+          "team": "Arizona Cardinals",
+          "set": "effort. Harrison went 60 yards on his second score,",
+          "year": "2024",
+          "cardNumber": "61"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0023.jpg + Document_20260615_0024.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "TREY McBRIDE",
+        "team": "Arizona Cardinals",
+        "position": "TE",
+        "set": "Topps",
+        "year": "2023",
+        "cardNumber": "1",
+        "parallel": null,
+        "ocrPreview": "EZ Hold tepes CARDINALE C 5 8 ARIZONA 35 Z ANNOa"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0023.jpg",
+        "sideGuess": "front",
+        "variant": "reflectiveRecovery",
+        "diagnostics": {
+          "variant": "reflectiveRecovery",
+          "score": 2.024,
+          "fieldCount": 2,
+          "missingFields": [
+            "team",
+            "position",
+            "set",
+            "year",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 48,
+          "attemptedVariants": [
+            "original",
+            "shadowLift",
+            "reflectiveRecovery",
+            "highContrastMono"
+          ]
+        },
+        "parsed": {
+          "player": "EZ Hold",
+          "team": "",
+          "set": "",
+          "year": "",
+          "cardNumber": "35"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0024.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 611,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "TREY McBRIDE",
+          "team": "Arizona Cardinals",
+          "set": "toppS",
+          "year": "2023",
+          "cardNumber": ""
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0025.jpg + Document_20260615_0026.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "TREY McBRIDE",
+        "team": "Arizona Cardinals",
+        "position": "TE",
+        "set": "Topps",
+        "year": "2023",
+        "cardNumber": "1",
+        "parallel": null,
+        "ocrPreview": "TOPPS 5 8 ARIZONA 85 aNnod TREY MCBRIDE"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0025.jpg",
+        "sideGuess": "front",
+        "variant": "highContrastMono",
+        "diagnostics": {
+          "variant": "highContrastMono",
+          "score": 3.0195,
+          "fieldCount": 3,
+          "missingFields": [
+            "team",
+            "position",
+            "year",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 39,
+          "attemptedVariants": [
+            "original",
+            "shadowLift",
+            "reflectiveRecovery",
+            "highContrastMono"
+          ]
+        },
+        "parsed": {
+          "player": "TREY MCBRIDE",
+          "team": "",
+          "set": "TOPPS",
+          "year": "",
+          "cardNumber": "85"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0026.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 612,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "TREY McBRIDE",
+          "team": "Arizona Cardinals",
+          "set": "topps®",
+          "year": "2023",
+          "cardNumber": ""
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0027.jpg + Document_20260615_0028.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "MARVIN HARRISON JR.",
+        "team": "Arizona Cardinals",
+        "position": "WR",
+        "set": "effort. Harrison went 60 yards on his second score,",
+        "year": "2024",
+        "cardNumber": "61",
+        "parallel": null,
+        "ocrPreview": "ROUND 1 MARVIN HARRISON JR. PICK 4 LappS ENALS 18"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0027.jpg",
+        "sideGuess": "front",
+        "variant": "reflectiveRecovery",
+        "diagnostics": {
+          "variant": "reflectiveRecovery",
+          "score": 2.0245,
+          "fieldCount": 2,
+          "missingFields": [
+            "team",
+            "position",
+            "set",
+            "year",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 49,
+          "attemptedVariants": [
+            "original",
+            "shadowLift",
+            "reflectiveRecovery",
+            "highContrastMono"
+          ]
+        },
+        "parsed": {
+          "player": "MARVIN HARRISON JR.",
+          "team": "",
+          "set": "",
+          "year": "",
+          "cardNumber": "18"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0028.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.2,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 610,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "MARVIN HARRISON JR.",
+          "team": "Arizona Cardinals",
+          "set": "effort. Harrison went 60 yards on his second score,",
+          "year": "2024",
+          "cardNumber": "61"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0029.jpg + Document_20260615_0030.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "TREY McBRIDE",
+        "team": "Arizona Cardinals",
+        "position": "TE",
+        "set": "Topps",
+        "year": "2023",
+        "cardNumber": "1",
+        "parallel": null,
+        "ocrPreview": "topps CAREERALE 5 1 8 ARIZONA N 135 TREY MOBRIDE"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0029.jpg",
+        "sideGuess": "front",
+        "variant": "reflectiveRecovery",
+        "diagnostics": {
+          "variant": "reflectiveRecovery",
+          "score": 3.024,
+          "fieldCount": 3,
+          "missingFields": [
+            "team",
+            "position",
+            "year",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 48,
+          "attemptedVariants": [
+            "original",
+            "shadowLift",
+            "reflectiveRecovery",
+            "highContrastMono"
+          ]
+        },
+        "parsed": {
+          "player": "TREY MOBRIDE",
+          "team": "",
+          "set": "topps",
+          "year": "",
+          "cardNumber": "135"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0030.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 611,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "TREY McBRIDE",
+          "team": "Arizona Cardinals",
+          "set": "toPPS",
+          "year": "2023",
+          "cardNumber": ""
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0001.jpg + Document_20260615_0002.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "TYLER ALLGEIER",
+        "team": "Atlanta Falcons",
+        "position": "RB",
+        "set": "Donruss",
+        "year": "2024",
+        "cardNumber": "41",
+        "parallel": null,
+        "ocrPreview": "TYLER ALLGEIER RUNNING BACK . FALCONS DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0001.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.5925,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 45,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "TYLER ALLGEIER",
+          "team": "Atlanta Falcons",
+          "set": "DONRUSS",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0002.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 514,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "Atlanta Falcons",
+          "set": "2025 PANINI - DONRUSS FOOTBALL THEJE @ 2025 Panini America, Inc.",
+          "year": "2024",
+          "cardNumber": "41"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0003.jpg + Document_20260615_0004.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "WILLIAM ANDREWS",
+        "team": "Atlanta Falcons",
+        "position": "RB",
+        "set": "Donruss",
+        "year": "1980",
+        "cardNumber": "247",
+        "parallel": null,
+        "ocrPreview": "WILLIAM ANDREWS RUNNING BACK . FALCONS DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0003.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.023,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 46,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "WILLIAM ANDREWS",
+          "team": "Atlanta Falcons",
+          "set": "DONRUSS",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0004.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 502,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "Atlanta Falcons",
+          "set": "2025 PANINI - DONRUSS FOOTBALL PHFEFE @ 2025 Panini America, Inc.",
+          "year": "1980",
+          "cardNumber": "247"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0005.jpg + Document_20260615_0006.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Tyler Allgeier",
+        "team": "Atlanta Falcons",
+        "position": "RB",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "33",
+        "parallel": null,
+        "ocrPreview": "TYLER ALLGEIER RUNNING BACK · FALCONS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0005.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.5965,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 53,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "TYLER ALLGEIER",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0006.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 541,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Tyler Allgeier",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "33"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0007.jpg + Document_20260615_0008.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Drake London",
+        "team": "Atlanta Falcons",
+        "position": "WR",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "153",
+        "parallel": null,
+        "ocrPreview": "ATL ATL DRAKE LONDON WIDE RECEIVER · FALCONS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0007.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.6,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 60,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DRAKE LONDON",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0008.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 510,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Drake London",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "153"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Atlanta Falcons",
+      "pairLabel": "Document_20260615_0009.jpg + Document_20260615_0010.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "Darnell Mooney",
+        "team": "Atlanta Falcons",
+        "position": "WR",
+        "set": "Donruss Optic",
+        "year": "2024",
+        "cardNumber": "65",
+        "parallel": null,
+        "ocrPreview": "ATL DARNELL MOONEY WIDE RECEIVER · FALCONS OPTIC 0 DONRUSS"
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0009.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 4.599,
+          "fieldCount": 4,
+          "missingFields": [
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 58,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "DARNELL MOONEY",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0010.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.92,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0.72,
+          "catalogMatched": true,
+          "ocrPreviewLength": 491,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "Darnell Mooney",
+          "team": "Atlanta Falcons",
+          "set": "Donruss Optic",
+          "year": "2024",
+          "cardNumber": "65"
+        }
+      }
+    }
+  ]
+}

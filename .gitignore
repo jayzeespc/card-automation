@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+data/cache/
+data/reports/
+data/logs/
+backend/logs/
+dist/
+build/
+.env.qa
+.env.prod
+.env.example

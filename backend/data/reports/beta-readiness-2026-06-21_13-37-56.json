@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-06-21T13:37:56.615Z",
+  "rootPath": "D:/Sport Cards/Scanned from Epson/Football/Arizona Cardinals",
+  "reportPath": "D:\\Website\\card-automation\\backend\\data\\reports\\regression-2026-06-21_13-37-56.json",
+  "gateProfile": "beta",
+  "readyForBeta": false,
+  "status": "fail",
+  "pairCount": 15,
+  "thresholds": {
+    "minPairs": 20,
+    "minYearPct": 95,
+    "minPositionPct": 85,
+    "minParallelWhenEvidencePct": 30,
+    "minParallelEvidencePct": 10
+  },
+  "coveragePct": {
+    "player": 100,
+    "team": 100,
+    "position": 93.33,
+    "set": 100,
+    "year": 100,
+    "cardNumber": 100,
+    "parallel": 0
+  },
+  "diagnostics": {
+    "sideDetectorDisagreePct": 100,
+    "parallelEvidencePct": 0,
+    "reviewPairCount": 15
+  },
+  "failures": [
+    "pairCount 15 is below required minimum 20"
+  ],
+  "warnings": [
+    "parallel coverage is 0%, but only 0% of pairs show parallel signal tokens"
+  ]
+}

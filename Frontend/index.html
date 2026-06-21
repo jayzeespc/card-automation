@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#667eea" />
+  <title>CardPilot HQ</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="stylesheet" href="styles.css?v=20260619m" />
+</head>
+
+<body>
+  <!-- Header -->
+  <div class="header">
+    <div class="header-content">
+      <h1>CardPilot HQ <span id="envBadge" style="font-size: 0.6em; opacity: 0.7; margin-left: 8px;"></span></h1>
+
+      <div class="app-toolbar">
+        <label class="sport-picker" for="sportSelect">
+          <span>Sport</span>
+          <select id="sportSelect">
+            <option value="Football">Football</option>
+            <option value="Basketball">Basketball</option>
+            <option value="Soccer">Soccer</option>
+          </select>
+        </label>
+      </div>
+      
+      <!-- Server Status -->
+      <div class="server-control">
+        <div class="status-indicator" id="serverStatus">
+          <span class="status-dot" id="statusDot"></span>
+          <span class="status-text" id="statusText">Checking...</span>
+        </div>
+        <button id="serverToggleBtn" class="server-btn">Start Server</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="app-nav">
+    <button id="navHomeBtn" type="button" class="nav-btn active">Home</button>
+    <button id="navScanBtn" type="button" class="nav-btn">Scan Cards</button>
+    <button id="navInventoryBtn" type="button" class="nav-btn">Inventory</button>
+  </div>
+
+  <section id="homePage" class="app-page active">
+    <div class="home-panel">
+      <h2>Welcome to your card workspace</h2>
+      <p>Choose a sport, then scan new cards or manage your saved inventory.</p>
+      <div class="home-actions">
+        <button id="homeGoScanBtn" type="button">Start Scanning</button>
+        <button id="homeGoInventoryBtn" type="button">View Inventory</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="scanPage" class="app-page">
+    <div class="scan-layout">
+      <aside class="scan-sidebar">
+        <div id="aiStatus" class="ai-status" style="color: #b00; margin-bottom:8px; display:none;"></div>
+
+        <div class="scan-panel">
+          <div class="scan-panel-title">Import Cards</div>
+          <div id="dropZone" class="drop-zone">
+            <p>Drag & Drop Images Here<br>or Click to Select</p>
+            <input type="file" id="fileInput" accept="image/*" capture="environment" multiple hidden />
+            <label for="fileInput" id="chooseFilesBtn" class="choose-files">Choose Files...</label>
+          </div>
+        </div>
+
+        <div class="scan-panel scan-panel-toggles">
+          <div class="scan-panel-title">Import Settings</div>
+          <label class="toggle">
+            <input type="checkbox" id="aiToggle" checked />
+            <span>Enable AI Extraction</span>
+          </label>
+
+          <label class="toggle">
+            <input type="checkbox" id="autoDetectSidesToggle" />
+            <span>Auto-correct front/back order (slower)</span>
+          </label>
+        </div>
+
+        <div class="button-row">
+          <div class="button-group">
+            <span class="button-group-label">AI Generation</span>
+            <button id="generateTitlesBtn">Generate Titles</button>
+            <button id="generateDescriptionsBtn">Generate Descriptions</button>
+            <button id="generateFilenamesBtn">Generate Filenames</button>
+          </div>
+
+          <div class="button-group">
+            <span class="button-group-label">Manage</span>
+            <button id="refreshPickOptionsBtn">Refresh Pick Options</button>
+            <button id="addRowBtn">Add Empty Row</button>
+            <button id="saveInventoryBtn">Save Rows to Inventory</button>
+            <button id="discardScanDraftBtn" type="button" class="secondary-btn">Discard Unsaved Scan Draft</button>
+            <button id="manageColumnsBtn">Manage Columns</button>
+          </div>
+
+          <div class="button-group">
+            <span class="button-group-label">Export</span>
+            <button id="exportCsvBtn">Export CSV</button>
+            <button id="downloadZipBtn">Download Renamed Images (ZIP)</button>
+             <input id="pictureBaseUrl" type="text" placeholder="Picture base URL (optional)" />
+             <button id="generatePictureUrlsBtn">Generate Picture URLs</button>
+          </div>
+        </div>
+      </aside>
+
+      <div class="scan-content">
+        <!-- Data Table -->
+        <div class="table-wrapper">
+          <table id="dataTable">
+            <thead>
+              <tr>
+                <th class="resizable">Image</th>
+                <th class="resizable">Quantity</th>
+                <th class="resizable">SKU</th>
+                <th class="resizable">Name</th>
+                <th class="resizable">Team</th>
+                <th class="resizable">Position</th>
+                <th class="resizable">Set</th>
+                <th class="resizable">Year</th>
+                <th class="resizable">Card #</th>
+                <th class="resizable">Parallel</th>
+                <th class="resizable">Rookie</th>
+                <th class="resizable">Autograph</th>
+                <th class="resizable">Title</th>
+                <th class="resizable">Description</th>
+                <th class="resizable">Pick From</th>
+                <th class="resizable">Filename</th>
+                <th class="resizable">Picture URL</th>
+                <th class="resizable">Pair Type</th>
+                <th class="resizable">Delete</th>
+              </tr>
+            </thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+
+        <div id="quickAddDropZone" class="drop-zone drop-zone-compact">
+          <p>Need more cards?<br>Drop more images here without scrolling back up.</p>
+          <button id="quickAddFilesBtn" type="button">Add More Images</button>
+        </div>
+
+        <div id="taskProgress" class="task-progress" style="display:none;">
+          <div class="task-progress-header">
+            <span id="taskProgressLabel">Working...</span>
+            <div class="task-progress-actions">
+              <span id="taskProgressCount">0 / 0</span>
+              <button id="taskProgressCancel" type="button" class="task-progress-cancel" style="display:none;">Cancel Upload</button>
+            </div>
+          </div>
+          <div class="task-progress-bar-wrap">
+            <div id="taskProgressBar" class="task-progress-bar"></div>
+          </div>
+          <div id="taskProgressMessage" class="task-progress-message"></div>
+        </div>
+      </div>
+    </div>
+
+    <div id="importPrefillModal" class="modal">
+      <div class="modal-content prefill-modal-content">
+        <div class="modal-header">
+          <h2>Prepare Import</h2>
+          <button class="modal-close" id="closeImportPrefillModal">&times;</button>
+        </div>
+        <div class="modal-body">
+          <div id="prefillImportSummary" class="prefill-summary"></div>
+          <p class="prefill-hint">Use known metadata to prefill incoming rows. Team and set history are remembered per sport for next time.</p>
+          <div class="prefill-grid">
+            <div class="prefill-field">
+              <span>Team</span>
+              <div id="prefillTeamChips" class="prefill-chip-list"></div>
+              <div class="prefill-entry-row">
+                <input id="prefillTeamInput" type="text" list="prefillTeamOptions" placeholder="Type a team and press Enter" />
+              </div>
+              <datalist id="prefillTeamOptions"></datalist>
+            </div>
+            <div class="prefill-field">
+              <span>Set</span>
+              <div class="prefill-set-panel">
+                <div class="prefill-set-header">Select set options</div>
+                <select id="prefillSetSelect" class="prefill-set-select" multiple size="6"></select>
+                <div class="prefill-set-add-row">
+                  <input id="prefillSetInput" type="text" placeholder="Add new set and press Enter" />
+                  <button id="clearPrefillSetsBtn" type="button" class="prefill-clear-btn">Clear History</button>
+                </div>
+              </div>
+            </div>
+            <label class="prefill-field">
+              <span>Year</span>
+              <details id="prefillYearDetails" class="prefill-year-dropdown">
+                <summary id="prefillYearSummary">Select year options</summary>
+                <div id="prefillYearChecklist" class="prefill-year-checklist"></div>
+              </details>
+            </label>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button id="cancelImportPrefillBtn" type="button" class="secondary-btn">Cancel</button>
+          <button id="confirmImportPrefillBtn" type="button" class="primary-btn">Import</button>
+        </div>
+      </div>
+    </div>
+
+  <!-- Column Manager Modal -->
+  <div id="columnModal" class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>Manage Columns</h2>
+        <button class="modal-close" id="closeColumnModal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div id="columnList"></div>
+        <div id="columnTools"></div>
+      </div>
+      <div class="modal-footer">
+        <button id="resetColumnsBtn" class="secondary-btn">Reset to Default</button>
+        <button id="saveColumnsBtn" class="primary-btn">Save</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Image Viewer Modal -->
+  <div id="imageViewerModal" class="image-modal">
+    <button id="imageViewerClose" class="image-modal-close" aria-label="Close image viewer">&times;</button>
+    <div class="image-modal-content">
+      <div class="image-modal-toolbar">
+        <button id="imagePrev" type="button" aria-label="Previous image">&#9664;</button>
+        <button id="imageZoomOut" type="button" aria-label="Zoom out">-</button>
+        <button id="imageZoomIn" type="button" aria-label="Zoom in">+</button>
+        <button id="imageZoomReset" type="button" aria-label="Reset zoom">Reset</button>
+        <button id="imageNext" type="button" aria-label="Next image">&#9654;</button>
+      </div>
+      <div id="imageViewerStage" class="image-modal-stage">
+        <img id="imageViewerImg" alt="Card image preview" />
+      </div>
+      <div id="imageViewerCaption" class="image-modal-caption"></div>
+    </div>
+  </div>
+
+  </section>
+
+  <section id="inventoryPage" class="app-page">
+    <div class="inventory-header">
+      <h2>Inventory</h2>
+      <div class="inventory-actions">
+        <button id="refreshInventoryBtn" type="button">Refresh Inventory</button>
+        <button id="verifyEbayFieldsBtn" type="button">Verify eBay Fields</button>
+        <button id="exportEbayCsvBtn" type="button">Export eBay CSV</button>
+        <button id="clearSportInventoryBtn" type="button">Clear This Sport</button>
+        <button id="clearAllInventoryBtn" type="button">Clear All Inventory</button>
+      </div>
+    </div>
+    <div class="inventory-draft-panel">
+      <div class="inventory-draft-title">eBay Listing Drafts</div>
+      <div class="inventory-draft-row">
+        <label>
+          <span>Template</span>
+          <select id="listingTemplateSelect"></select>
+        </label>
+        <label>
+          <span>Card ID or SKU</span>
+          <input id="listingCardIdInput" type="text" placeholder="Card ID, SKU, or CSV list" />
+        </label>
+        <label>
+          <span>Chase Card ID or SKU</span>
+          <input id="listingChaseCardIdInput" type="text" placeholder="Optional for mystery packs" />
+        </label>
+        <button id="buildListingDraftBtn" type="button">Build Draft</button>
+      </div>
+      <pre id="listingDraftOutput" class="inventory-draft-output">Select a template and enter a card ID or SKU to generate a listing draft.</pre>
+    </div>
+    <div id="inventoryStatus" class="inventory-status" style="display:none;"></div>
+    <div class="table-wrapper">
+      <table id="inventoryTable">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Sport</th>
+            <th>SKU</th>
+            <th>Name</th>
+            <th>Team</th>
+            <th>Set</th>
+            <th>Year</th>
+            <th>Card #</th>
+            <th>Quantity</th>
+            <th>Parallel</th>
+            <th>Updated</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody id="inventoryBody"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+  <script src="app.js?v=20260621k"></script>
+  <script src="column-manager.js?v=20260619d"></script>
+  <script src="server-control.js?v=20260619i"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "set": "2025-2026 Topps Signature Class Football",
+  "source": "Beckett search",
+  "query": "Topps Signature Class football cards",
+  "status": "not_found",
+  "evidence": {
+    "searchPagePath": "data/checklists/raw/beckett-search-topps-signature-class.html",
+    "marker": "No post to display"
+  },
+  "checkedAt": "2026-06-20"
+}

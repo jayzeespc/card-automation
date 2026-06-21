@@ -1,0 +1,10 @@
+{
+  "name": "CardPilot HQ",
+  "short_name": "CardPilot",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#667eea",
+  "description": "CardPilot HQ helps you scan, organize, and prepare trading cards for inventory and listings.",
+  "icons": []
+}

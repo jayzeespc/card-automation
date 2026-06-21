@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-06-21T13:40:45.219Z",
+  "rootPath": "D:/Sport Cards/Scanned from Epson/Football",
+  "reportPath": "D:\\Website\\card-automation\\backend\\data\\reports\\regression-2026-06-21_13-40-45.json",
+  "gateProfile": "beta",
+  "readyForBeta": true,
+  "status": "pass",
+  "pairCount": 35,
+  "thresholds": {
+    "minPairs": 20,
+    "minYearPct": 95,
+    "minPositionPct": 85,
+    "minParallelWhenEvidencePct": 30,
+    "minParallelEvidencePct": 10
+  },
+  "coveragePct": {
+    "player": 100,
+    "team": 100,
+    "position": 97.14,
+    "set": 100,
+    "year": 100,
+    "cardNumber": 100,
+    "parallel": 0
+  },
+  "diagnostics": {
+    "sideDetectorDisagreePct": 100,
+    "parallelEvidencePct": 0,
+    "reviewPairCount": 35
+  },
+  "failures": [],
+  "warnings": [
+    "parallel coverage is 0%, but only 0% of pairs show parallel signal tokens"
+  ]
+}

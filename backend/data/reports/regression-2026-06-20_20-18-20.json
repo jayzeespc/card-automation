@@ -1,0 +1,551 @@
+{
+  "summary": {
+    "rootPath": "D:\\Sport Cards\\Scanned from Epson\\Football",
+    "generatedAt": "2026-06-20T20:18:20.688Z",
+    "pairCount": 6,
+    "imageCount": 12,
+    "fieldCoverage": {
+      "player": {
+        "hits": 6,
+        "pct": 100
+      },
+      "team": {
+        "hits": 6,
+        "pct": 100
+      },
+      "position": {
+        "hits": 5,
+        "pct": 83.33
+      },
+      "set": {
+        "hits": 6,
+        "pct": 100
+      },
+      "year": {
+        "hits": 6,
+        "pct": 100
+      },
+      "cardNumber": {
+        "hits": 6,
+        "pct": 100
+      },
+      "parallel": {
+        "hits": 0,
+        "pct": 0
+      }
+    },
+    "variantUsage": {
+      "original": 11,
+      "reflectiveRecovery": 1
+    },
+    "catalogMatchBuckets": {
+      "0.00": 9,
+      "0.50-0.74": 3
+    },
+    "sidePatterns": {
+      "back/front": 2,
+      "front/front": 4
+    },
+    "folderCounts": {
+      "Arizona Cardinals": 6
+    },
+    "reviewPairCount": 6,
+    "reviewPairs": [
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0001.jpg + Document_20260615_0002.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "back/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0003.jpg + Document_20260615_0004.jpg",
+        "combinedMissing": [
+          "position",
+          "parallel"
+        ],
+        "sidePattern": "back/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0005.jpg + Document_20260615_0006.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0007.jpg + Document_20260615_0008.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0009.jpg + Document_20260615_0010.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      },
+      {
+        "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+        "pairLabel": "Document_20260615_0011.jpg + Document_20260615_0012.jpg",
+        "combinedMissing": [
+          "parallel"
+        ],
+        "sidePattern": "front/front",
+        "note": "Side detector disagrees with preserved scan order; detector is advisory only."
+      }
+    ]
+  },
+  "results": [
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0001.jpg + Document_20260615_0002.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "PREMIER LEVEL",
+        "team": "Arizona Cardinals",
+        "position": "ing defenses can plan against",
+        "set": "SELECT",
+        "year": "2025",
+        "cardNumber": "123",
+        "parallel": ""
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0001.jpg",
+        "sideGuess": "back",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.0195,
+          "fieldCount": 5,
+          "missingFields": [
+            "position",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 39,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "JAMES CONNER",
+          "team": "Arizona Cardinals",
+          "set": "SELECT",
+          "year": "2025",
+          "cardNumber": "2025"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0002.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 6.2,
+          "fieldCount": 6,
+          "missingFields": [
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 425,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "PREMIER LEVEL",
+          "team": "Arizona Cardinals",
+          "set": "PANINI",
+          "year": "2025",
+          "cardNumber": "123"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0003.jpg + Document_20260615_0004.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "MICHAEL WILSON",
+        "team": "Arizona Cardinals",
+        "position": "",
+        "set": "PANINI",
+        "year": "2024",
+        "cardNumber": "145",
+        "parallel": ""
+      },
+      "combinedMissing": [
+        "position",
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0003.jpg",
+        "sideGuess": "back",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 3.0225,
+          "fieldCount": 3,
+          "missingFields": [
+            "position",
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 45,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "MICHAEL WILSON",
+          "team": "Arizona Cardinals",
+          "set": "PANINI",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0004.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "position",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 497,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "MICHAEL WILSON",
+          "team": "Arizona Cardinals",
+          "set": "PANINI",
+          "year": "2024",
+          "cardNumber": "145"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0005.jpg + Document_20260615_0006.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "JAMES CONNER",
+        "team": "Arizona Cardinals",
+        "position": "RB",
+        "set": "OPTIC",
+        "year": "2024",
+        "cardNumber": "111",
+        "parallel": ""
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0005.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 3.599,
+          "fieldCount": 3,
+          "missingFields": [
+            "position",
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 58,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "JAMES CONNER",
+          "team": "Arizona Cardinals",
+          "set": "OPTIC",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0006.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 550,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "Arizona Cardinals",
+          "set": "PANINI",
+          "year": "2024",
+          "cardNumber": "111"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0007.jpg + Document_20260615_0008.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "MARVIN HARRISON JR.",
+        "team": "CARDINALS",
+        "position": "WR",
+        "set": "OPTIC",
+        "year": "2024",
+        "cardNumber": "191",
+        "parallel": ""
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0007.jpg",
+        "sideGuess": "front",
+        "variant": "reflectiveRecovery",
+        "diagnostics": {
+          "variant": "reflectiveRecovery",
+          "score": 4.0355,
+          "fieldCount": 4,
+          "missingFields": [
+            "team",
+            "year",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 71,
+          "attemptedVariants": [
+            "original",
+            "shadowLift",
+            "reflectiveRecovery",
+            "highContrastMono"
+          ]
+        },
+        "parsed": {
+          "player": "MARVIN HARRISON JR.",
+          "team": "",
+          "set": "OPTIC",
+          "year": "",
+          "cardNumber": "18"
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0008.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 517,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "CARDINALS",
+          "set": "PANINI",
+          "year": "2024",
+          "cardNumber": "191"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0009.jpg + Document_20260615_0010.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "KYLER MURRAY",
+        "team": "Arizona Cardinals",
+        "position": "QB",
+        "set": "OPTIC",
+        "year": "2024",
+        "cardNumber": "166",
+        "parallel": ""
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0009.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 3.6005,
+          "fieldCount": 3,
+          "missingFields": [
+            "position",
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 61,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "KYLER MURRAY",
+          "team": "Arizona Cardinals",
+          "set": "OPTIC",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0010.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 587,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "Arizona Cardinals",
+          "set": "PANINI",
+          "year": "2024",
+          "cardNumber": "166"
+        }
+      }
+    },
+    {
+      "folder": "D:\\Sport Cards\\Scanned from Epson\\Football\\Arizona Cardinals",
+      "pairLabel": "Document_20260615_0011.jpg + Document_20260615_0012.jpg",
+      "orderAssumption": "scan-order-preserved",
+      "combined": {
+        "player": "JAKE PLUMMER",
+        "team": "Arizona Cardinals",
+        "position": "QB",
+        "set": "OPTIC",
+        "year": "2025",
+        "cardNumber": "189",
+        "parallel": ""
+      },
+      "combinedMissing": [
+        "parallel"
+      ],
+      "front": {
+        "fileName": "Document_20260615_0011.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 3.597,
+          "fieldCount": 3,
+          "missingFields": [
+            "position",
+            "year",
+            "cardNumber",
+            "parallel"
+          ],
+          "catalogMatchScore": 0.57,
+          "catalogMatched": true,
+          "ocrPreviewLength": 54,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "JAKE PLUMMER",
+          "team": "Arizona Cardinals",
+          "set": "OPTIC",
+          "year": "",
+          "cardNumber": ""
+        }
+      },
+      "back": {
+        "fileName": "Document_20260615_0012.jpg",
+        "sideGuess": "front",
+        "variant": "original",
+        "diagnostics": {
+          "variant": "original",
+          "score": 5.2,
+          "fieldCount": 5,
+          "missingFields": [
+            "player",
+            "parallel"
+          ],
+          "catalogMatchScore": 0,
+          "catalogMatched": false,
+          "ocrPreviewLength": 537,
+          "attemptedVariants": [
+            "original"
+          ]
+        },
+        "parsed": {
+          "player": "",
+          "team": "Arizona Cardinals",
+          "set": "PANINI",
+          "year": "2025",
+          "cardNumber": "189"
+        }
+      }
+    }
+  ]
+}

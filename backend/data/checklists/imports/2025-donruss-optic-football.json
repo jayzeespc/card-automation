@@ -1,0 +1,12 @@
+{
+  "source": "beckett",
+  "sourceUrl": "https://www.beckett.com/news/2025-donruss-optic-football-cards/",
+  "set": {
+    "sport": "Football",
+    "year": "2025",
+    "brand": "Panini",
+    "setName": "Donruss Optic",
+    "notes": "Parsed from publicly available checklist article text."
+  },
+  "cards": []
+}
